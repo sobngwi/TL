@@ -1,0 +1,9 @@
+org/axonframework/examples/addressbook/rest/ContactCannotBeFoundException.class
+org/axonframework/examples/addressbook/rest/RestUI.class
+org/axonframework/examples/addressbook/rest/listener/AddressListener.class
+org/axonframework/examples/addressbook/rest/ContactsController.class
+org/axonframework/examples/addressbook/rest/ContactNameAlreadyTakenException.class
+org/axonframework/examples/addressbook/rest/listener/Publisher.class
+org/axonframework/examples/addressbook/rest/listener/ContactListener.class
+org/axonframework/examples/addressbook/rest/listener/Message.class
+org/axonframework/examples/addressbook/rest/listener/RedisPublisher.class

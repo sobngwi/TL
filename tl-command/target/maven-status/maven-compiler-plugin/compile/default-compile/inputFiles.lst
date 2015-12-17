@@ -1,0 +1,5 @@
+/Users/sobngwi/CQRS/demo/tl-command/src/main/java/org/axonframework/sample/app/command/JpaContactNameRepository.java
+/Users/sobngwi/CQRS/demo/tl-command/src/main/java/org/axonframework/sample/app/command/ContactCommandHandler.java
+/Users/sobngwi/CQRS/demo/tl-command/src/main/java/org/axonframework/sample/app/command/Contact.java
+/Users/sobngwi/CQRS/demo/tl-command/src/main/java/org/axonframework/sample/app/command/ClaimedContactName.java
+/Users/sobngwi/CQRS/demo/tl-command/src/main/java/org/axonframework/sample/app/command/ContactNameRepository.java

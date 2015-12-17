@@ -1,0 +1,7 @@
+org/axonframework/sample/app/command/Contact.class
+org/axonframework/sample/app/command/ContactCommandHandler$1.class
+org/axonframework/sample/app/command/ContactCommandHandler.class
+org/axonframework/sample/app/command/ContactCommandHandler$2.class
+org/axonframework/sample/app/command/ClaimedContactName.class
+org/axonframework/sample/app/command/JpaContactNameRepository.class
+org/axonframework/sample/app/command/ContactNameRepository.class

@@ -1,0 +1,16 @@
+org/axonframework/sample/app/api/RegisterAddressCommand.class
+org/axonframework/sample/app/api/ContactNameChangedEvent.class
+org/axonframework/sample/app/api/AbstractOrderCommand.class
+org/axonframework/sample/app/api/RemoveAddressCommand.class
+org/axonframework/sample/app/api/AddressAddedEvent.class
+org/axonframework/sample/app/api/AddressRemovedEvent.class
+org/axonframework/sample/app/api/ContactCreatedEvent.class
+org/axonframework/sample/app/api/ChangeContactNameCommand.class
+org/axonframework/sample/app/api/ContactNameAlreadyTakenException.class
+org/axonframework/sample/app/api/CreateContactCommand.class
+org/axonframework/sample/app/api/AddressRegisteredEvent.class
+org/axonframework/sample/app/api/AddressType.class
+org/axonframework/sample/app/api/ContactDeletedEvent.class
+org/axonframework/sample/app/api/RemoveContactCommand.class
+org/axonframework/sample/app/api/AddressChangedEvent.class
+org/axonframework/sample/app/api/Address.class

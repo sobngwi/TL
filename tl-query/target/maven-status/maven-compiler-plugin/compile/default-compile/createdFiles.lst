@@ -1,0 +1,5 @@
+org/axonframework/sample/app/query/AddressEntry.class
+org/axonframework/sample/app/query/ContactEntry.class
+org/axonframework/sample/app/query/ContactRepository.class
+org/axonframework/sample/app/query/ContactRepositoryImpl.class
+org/axonframework/sample/app/query/AddressTableUpdater.class
